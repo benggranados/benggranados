@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Ben 👋  
+I’m a Financial Engineering grad from UIUC with a background in Economics, Computer Science, and applied machine learning.
 
-<!--
-**benggranados/benggranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I’m interested in:
+- Quantitative research and data analysis  
+- NLP applied to financial documents  
+- Option pricing and algorithmic finance  
 
-Here are some ideas to get you started:
+🛠️ Languages & Tools:
+Python • R • SQL • C++ • NumPy • Pandas • Scikit-learn • PyTorch • QuantLib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Recent Projects:
+- **NLP Financial Report Analyzer**: Used GPT & Gemini to extract company performance from unstructured text  
+- **American Option Pricing Models**: Benchmarked deep learning models vs. Longstaff-Schwartz for pricing accuracy  
+- **Smart Home Automation**: Built voice-activated workflows using Google Home, Apple HomeKit, and Alexa
+
+Let’s connect!
